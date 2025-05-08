@@ -12,7 +12,7 @@ El propósito del desarrollo guiado por pruebas es lograr un código limpio que 
 
 ## Ejercicio 1: Verificar si un número es par
 
-1. Descripción: Escribe una función llamada esPar que reciba un número y devuelva true si el número es par, o false si es impar.
+1. Descripción: Escribe una función llamada esPar que reciba un número y devuelva 'true' si el número es par, o 'false' si es impar.
 
 2. Pasos:
 
